@@ -1,0 +1,20 @@
+{
+    "name": "lyric-music",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/4relial/JadiAnime.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.12",
+        "superagent": "^8.0.6"
+    }
+}
